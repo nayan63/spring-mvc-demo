@@ -1,0 +1,33 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #1a2160fc !important;
+	color: #dae1e9;
+}
+
+header {
+	background-color: #1a1a1a;
+	color: #fff;
+	display: flex;
+	justify-content: space-between;
+	padding: 20px;
+}
+
+.logo {
+	font-size: 30px;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0
+}
+
+.add-form
+{
+	border-radius: 20px;
+	height: min-content;
+	margin: 0 auto;
+	padding: 33px;
+	background-color: #7309838c
+}
